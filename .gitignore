@@ -56,3 +56,9 @@ alpha_nlu/aclImdb/
 alpha_nlu/aclImdb_v1.tar.gz
 alpha_nlu/metadata.tsv
 alpha_nlu/vectors.tsv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# virtual env
+env/
